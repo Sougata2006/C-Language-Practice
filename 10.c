@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main (){
-// type declaration instruction
 int i = 10;
 int j = i ;
 // %d is called format specifier 
