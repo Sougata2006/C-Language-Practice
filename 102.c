@@ -1,6 +1,5 @@
-//take input and print the values of a 2d array
-
 #include <stdio.h>
+
 int main(){
     int arr[3][3];
     printf("Enter values for each row and column : \n");
