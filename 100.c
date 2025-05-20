@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int isPrime(int num) {
@@ -8,7 +7,6 @@ int isPrime(int num) {
     }
     return 1;
 }
-
 int main() {
     printf("Prime numbers from 1 to 100 are:\n");
     for (int i = 1; i <= 100; i++) {
