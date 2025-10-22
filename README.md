@@ -1,6 +1,6 @@
 # 🖥️ My C Programming Journey  
 
-Welcome to my personal repository documenting my journey of learning **C programming** from scratch.  
+Welcome to my personal repository documenting my journey of learning **C programming**.  
 Here, you'll find my practice programs, mini-projects, and experiments as I explore the fundamentals of C.
 
 ---
